@@ -9,9 +9,9 @@ La version para Termux actualmente ya esta funcionando en la version 1.0 correct
 
 # Como usar la herramienta Linux/Termux
 
-$ git clone https://github.com/RIP-Network/SMS-Bomber
+$ git clone https://github.com/hilyzx/SMSBomb
 
-$ cd SMS-Bomber
+$ cd SMSBomb
 
 $ chmod +x * install.sh
 
