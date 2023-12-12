@@ -17,7 +17,7 @@ magenta='\033[1;35m'
 function Error {
 echo -e "${rojo}
 ┌═════════════════════┐
-█ ${blanco}¡OPCIÓN INCORRECTA! ${rojo}█
+█ ${blanco}¡OPCIÓN INCORRECTA!! ${rojo}█
 └═════════════════════┘
 "${blanco}
 sleep 0.5
