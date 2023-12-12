@@ -78,7 +78,7 @@ fi
 function Error {
 echo -e "${rojo}
 ┌═════════════════════┐
-█ ${blanco}¡OPCIÓN INCORRECTA! ${rojo}█
+█ ${blanco}¡OPCIÓN INCORRECTA!! ${rojo}█
 └═════════════════════┘
 "${blanco}
 sleep 0.5
