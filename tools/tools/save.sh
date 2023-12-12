@@ -58,7 +58,7 @@ echo -e -n "${verde}
 █ ${blanco}INGRESE UN NOMBRE PARA SU NÚMERO ${verde}█
 └══════════════════════════════════┘
 ┃    ┌═════════┐  ┌═════════┐
-└═>>>█ ${blanco}EJEMPLO ${verde}█=>█ ${azul}Darkmux ${verde}█
+└═>>>█ ${blanco}EJEMPLO ${verde}█=>█ ${azul}hilyzx ${verde}█
 ┃    └═════════┘  └═════════┘
 ┃
 └═>>> "${blanco}
