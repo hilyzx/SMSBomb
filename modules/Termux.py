@@ -18,7 +18,7 @@ cierre = '\033[39m'
 #Banner 
 
 os.system('clear')
-print(rojo+"Happy Hacking"+cierre)
+print(rojo+"Tool by Hilyzx"+cierre)
 os.system('sleep 5')
 os.system('clear')
 
@@ -52,22 +52,22 @@ banner = Fore.RED + """…………..$……………………………………
 
 
 print(banner)
-print(Fore.BLUE + "              RIP-Network")
-print(azul+"                 V21.5"+cierre)
+print(Fore.BLUE + "              Hilyzx")
+print(azul+"                 V1.0"+cierre)
 time.sleep(3)
 
 
 def menu():
     while True:
      print(Fore.BLUE + "Opciones\n")     
-     print(azul+"1) Spam-SMS (Termux)                     RIP-Network                             "+cierre)                    
-     print(azul+"2) Instalar requisitos                  Version 21.5                             "+cierre)
+     print(azul+"1) Spam-SMS (Termux)                     Hilyzx                             "+cierre)                    
+     print(azul+"2) Instalar requisitos                  Version 1.0                             "+cierre)
      print(azul+"3) Version de la herramienta "+cierre)
      print(azul+"4) Spam-SMS (Linux)"+cierre)
      print(azul+"5) Como usar "+cierre)
      print(azul+"99)Salir"+cierre)
 
-     d = input(Fore.LIGHTBLUE_EX + "C:\RIP-Network@root > ")
+     d = input(Fore.LIGHTBLUE_EX + "C:\hilyzx@root > ")
 
      if d == "1":
         print ("Por favor espere... ")
@@ -114,7 +114,7 @@ def menu():
         os.system('./install.sh')
 
      if d == "3":
-         print("version 21.5 by RIP-Network")
+         print("version 1.0 by Hilyzx")
     
      elif d == "4":
         print("Espere por favor...")
@@ -125,7 +125,7 @@ def menu():
 
 
      elif d == "5":
-        print(rojo+"Cuando se habran las paginas tendras poner el numero de la victima en las casillas que te ponga solicitar el numero y aceptar o continuar de esa manera se enviara 1 sms por cada pagina, puedes repetir el proceso muchas veces creando un buen spammer, esta herramienta es muy simple de usar y gracias a vuestro apoyo se sigue mejorando cada vez mas, gracias por usar esta herramienta para mas cosas nuevas estaria bien una estrella en el repositorio."+cierre)
+        print(rojo+"Cuando se abran las paginas tendras poner el numero de la victima en las casillas que te ponga solicitar el numero y aceptar o continuar de esa manera se enviara 1 sms por cada pagina"+cierre)
         time.sleep(15)
 
       
