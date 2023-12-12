@@ -33,7 +33,7 @@ while :
 do
 
 echo -e "\e[1;32m"
-echo " RIP-Network V21.5 "
+echo " Hilyzx elements 1.0  "
 echo ""
 echo "1. Spam-SMS (Linux) (Manual)"
 echo "2. Spam-SMS (Termux) (Manual)"
@@ -43,7 +43,7 @@ echo "5. SMS Anonimo (Linux/Termux)"
 echo "99. Salir"
 echo ""
 
-echo -n "C:\RIP-Network@root >  "
+echo -n "C:\hilyzx@root >  "
 read opcion
 
 case $opcion in
