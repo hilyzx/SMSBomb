@@ -57,7 +57,7 @@ InputData(){
 	DarkSMS
 echo -e -n "${negro}
 ┌═══════════════════┐
-█ ${blanco}NÚMERO TELEFÓNICO ${negro}█
+█ ${blanco}NÚMERO TELEFÓNICO: ${negro}█
 └═══════════════════┘
 ┃
 └═>>> "${verde}
