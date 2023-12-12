@@ -9,4 +9,4 @@ Esta herramienta usa proxys para mejorar la rapidez y evitar el bloqueo de la vi
 
 4. Disfruta el ataque el programa ya tiene proxys incluidas !
 
-- Created by RIP-Network
+- Created by Hilyzx
